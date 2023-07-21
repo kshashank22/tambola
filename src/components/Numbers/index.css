@@ -1,0 +1,9 @@
+.list {
+  list-style-type: none;
+  color: red;
+  font-size: 50px;
+  flex-wrap: wrap;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  background-color: rgb(81, 186, 235);
+}
